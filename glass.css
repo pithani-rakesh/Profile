@@ -1,6 +1,9 @@
 body{
-    background: url("https://static.vecteezy.com/system/resources/previews/000/275/823/original/vector-liquid-color-background-design.png");
+    /*background: url("https://static.vecteezy.com/system/resources/previews/000/275/823/original/vector-liquid-color-background-design.png");*/
     /*background-image: url('file:///D:/Profile/backgrounds/Untitled.svg');*/
+    /*background: url('https://images.saymedia-content.com/.image/t_share/MTc4NzM1OTc4MzE0MzQzOTM1/how-to-create-cool-website-backgrounds-the-ultimate-guide.png');*/
+    background: url('https://images.unsplash.com/photo-1540612597331-63c67ea382fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80');
+    /*background-size: 100%;*/
     background-size: 100%;
     /*background-position: center;*/
     
